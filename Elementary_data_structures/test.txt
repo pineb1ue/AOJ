@@ -1,0 +1,115 @@
+114
+insert 8
+insert 7
+insert 7
+insert 8
+insert 7
+insert 8
+insert 1
+insert 1
+insert 1
+insert 1
+insert 1
+insert 1
+insert 1
+insert 1
+insert 8
+insert 8
+insert 1
+insert 1
+insert 8
+deleteLast
+insert 5
+insert 1
+insert 1
+insert 7
+insert 8
+deleteFirst
+insert 8
+insert 7
+insert 8
+insert 1
+insert 1
+insert 1
+insert 1
+delete 8
+delete 1
+delete 7
+insert 1
+insert 1
+insert 7
+insert 1
+insert 1
+insert 1
+delete 1
+insert 1
+insert 8
+insert 5
+delete 1
+delete 1
+insert 7
+delete 8
+delete 7
+insert 8
+insert 1
+insert 7
+insert 5
+insert 7
+insert 1
+insert 1
+insert 1
+delete 1
+insert 1
+insert 8
+deleteFirst
+insert 8
+insert 1
+insert 1
+insert 5
+insert 7
+insert 1
+insert 1
+insert 8
+insert 1
+deleteFirst
+insert 7
+insert 8
+delete 1
+insert 7
+delete 8
+delete 7
+insert 1
+insert 1
+insert 8
+insert 7
+insert 8
+insert 5
+insert 7
+deleteLast
+deleteLast
+insert 8
+deleteFirst
+insert 8
+delete 1
+insert 7
+delete 8
+insert 8
+insert 5
+deleteLast
+insert 7
+insert 1
+insert 1
+insert 8
+insert 13
+deleteLast
+deleteLast
+insert 8
+delete 8
+insert 13
+delete 1
+delete 1
+deleteLast
+insert 1
+insert 1
+delete 1
+delete 1
